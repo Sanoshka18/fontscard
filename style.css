@@ -1,0 +1,9 @@
+h1{
+    background-color: blue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: oblique;
+    float: inline-end;
+    flood-color: aqua;
+}
