@@ -7,3 +7,17 @@ h1{
     float: inline-end;
     flood-color: aqua;
 }
+header{
+    color: #592121;
+    display: flex;
+    justify-content: center;
+}
+@media screen {
+    display: block;
+    animation: :scope;
+   animation-timing-function: 5s;
+}
+ul{
+    color: chartreuse;
+    margin-left: 50%;
+}
